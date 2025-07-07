@@ -3,7 +3,7 @@ Hi, I’m Joshua a faith-driven, purpose-built learner on a mission to break int
 🔐 I’m currently learning through TryHackMe  
 💻 I use GitHub to document my labs, notes, and cheat sheets  
 📚 I study Information Technology at ACU (WIL Program)  
-🎯 My goal: Be job-ready by August 2025 and land a 6-figure role by 2026
+🎯 My goal: Establish a strong cybersecurity foundation and build a standout public portfolio.
 
 
 🌱 I’m Currently Working On:
