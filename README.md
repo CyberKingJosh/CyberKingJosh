@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I’m Joshua a faith-driven, purpose-built learner on a mission to break into the world of cybersecurity.
 
-<!--
-**CyberKingJosh/CyberKingJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 I’m currently learning through TryHackMe  
+💻 I use GitHub to document my labs, notes, and cheat sheets  
+📚 I study Information Technology at ACU (WIL Program)  
+🎯 My goal: Be job-ready by August 2025 and land a 6-figure role by 2026
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m Currently Working On:
+- TryHackMe Pre-Security & Beginner Paths
+- Linux fundamentals, networking, and ethical hacking basics
+- Building a clean public portfolio anyone can follow
+
+
+🧠 Knowledge Areas I’m Exploring:
+- Cybersecurity principles
+- Linux and bash commands
+- Web security + penetration testing
+
+📌 Let’s connect and grow!  
+Feel free to check out my labsand follow the journey.
+
+#FaithFirst #CyberBeginners #GitGood #CyberKingJosh
